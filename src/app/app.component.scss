@@ -1,0 +1,46 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+
+@media screen and (min-width:320px)  and (max-width:720px){
+
+  .mat-toolbar{
+    width: 125%;
+  }
+}
+
+@media screen and (max-width:425px){
+  .mat-toolbar{
+    width: 533px;
+  }
+}
+
+@media screen and (min-width:768px) {
+.mat-mdc-form-field  {
+    width: 768px;
+
+  }
+}
+
+  @media screen and (max-width:425px) {
+    .mat-mdc-form-field  {
+      width: 532px !important;
+
+      }
+}
+
+

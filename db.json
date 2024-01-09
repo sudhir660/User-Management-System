@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "sudhir shekar",
+      "roles": "soft.engineer",
+      "email": "sudhir@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "ram fartare",
+      "roles": "poilet",
+      "email": "ram@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "ramesh gholap",
+      "roles": "Teacher",
+      "email": "ramesh@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "rajesh mane",
+      "roles": "Engineer",
+      "email": "rajesh@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "mahesh udan",
+      "roles": "Teacher",
+      "email": "mahesh@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "sudhakar ughade",
+      "roles": "poilet",
+      "email": "sudhakar@gmail.com",
+      "id": 6
+    },
+    {
+      "firstName": "ramesh gholap",
+      "roles": "Teacher",
+      "email": "ramesh@gmail.com",
+      "id": 7
+    },
+    {
+      "firstName": "atul sherkar",
+      "roles": "Farmasist",
+      "email": "atul@gmail.com",
+      "id": 8
+    },
+    {
+      "firstName": "rajendra kangade",
+      "roles": "Teacher",
+      "email": "rajendra@gmail.com",
+      "id": 9
+    },
+    {
+      "firstName": "bharat Mane",
+      "roles": "Farmasist",
+      "email": "bharat@gmail.com",
+      "id": 10
+    },
+    {
+      "firstName": "rajendra kangade",
+      "roles": "Teacher",
+      "email": "rajendra@gmail.com",
+      "id": 11
+    }
+
+  ]
+}
